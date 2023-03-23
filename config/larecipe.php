@@ -16,7 +16,7 @@ return [
     'docs'        => [
         'route'   => '/docs',
         'path'    => '/resources/docs',
-        'landing' => 'overview',
+        'landing' => 'default',
         'middleware' => ['web'],
     ],
 
@@ -33,10 +33,13 @@ return [
     */
 
     'versions'      => [
-        'default'   => '1.0',
-        'published' => [
-            '1.0'
-        ]
+		'default' => '小丑路人·社区',
+		'published' => [
+			'小丑路人·社区',
+			'小丑路人·在线笔记与即时通讯',
+			'小丑路人·短链接',
+			'小丑路人·Laravel-vue-admin',
+		],
     ],
 
     /*

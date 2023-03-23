@@ -1,0 +1,3 @@
+- ## [小丑路人·社区](https://bbs.cnpscy.com)
+    - [简介](/{{route}}/{{version}}/introduction)
+    - [部署](/{{route}}/{{version}}/installation-deployment)
