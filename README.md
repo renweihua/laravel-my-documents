@@ -14,6 +14,7 @@
 1.  composer install
 2.  cp .env.example .env
 3.  生成 APP_KEY：`php artisan key:generate`
+4.  php artisan larecipe:install
 
 #### 使用说明
 

@@ -1,11 +1,11 @@
-[//]: # (- ## [demo]&#40;/{{route}}/{{version}}/demo&#41;)
+[//]: # (- ## [demo]&#40;/{{version}}/demo&#41;)
 
 - ## 小丑路人·社区
-    - [Laravel版](/{{route}}/{{version}}/home)
-    - [Hyperf版](/{{route}}/{{version}}/bbs-hyperf)
+    - [Laravel版](/{{version}}/home)
+    - [Hyperf版](/{{version}}/bbs-hyperf)
 - ## laravel-vue-admin管理系统
-    - [部署文档](/{{route}}/{{version}}/laravel-vue-admin)
+    - [部署文档](/{{version}}/laravel-vue-admin)
 - ## 在线笔记与即时通讯
-    - [部署文档](/{{route}}/{{version}}/notes-and-websocket)
+    - [部署文档](/{{version}}/notes-and-websocket)
 - ## 小丑路人·短链接
-    - [部署文档](/{{route}}/{{version}}/short-url)
+    - [部署文档](/{{version}}/short-url)

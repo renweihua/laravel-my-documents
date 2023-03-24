@@ -69,9 +69,9 @@
 
 <a name="section-部署优化"></a>
 ### 部署优化
-* 配置信息缓存 artisan config:cache
-* 路由缓存 artisan route:cache
-* 类映射加载优化 artisan optimize
+* 配置信息缓存 php artisan config:cache
+* 路由缓存 php artisan route:cache
+* 类映射加载优化 php artisan optimize
 * 自动加载优化 composer dumpautoload
 
 <a name="section-使用说明"></a>
