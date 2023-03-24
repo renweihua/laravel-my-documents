@@ -2,9 +2,9 @@
 - ## 小丑路人·社区
     - [Laravel版](/{{route}}/{{version}}/home)
     - [Hyperf版](/{{route}}/{{version}}/bbs-hyperf)
-- ## 小丑路人·laravel-vue-admin管理系统
-    - [laravel-vue-admin管理系统](/{{route}}/{{version}}/laravel-vue-admin)
-- ## 小丑路人·在线笔记与即时通讯
+- ## laravel-vue-admin管理系统
+    - [部署文档](/{{route}}/{{version}}/laravel-vue-admin)
+- ## 在线笔记与即时通讯
     - [小丑路人·在线笔记与即时通讯](/{{route}}/{{version}}/notes-and-websocket)
 - ## 小丑路人·短链接
     - [小丑路人·短链接](/{{route}}/{{version}}/short-url)

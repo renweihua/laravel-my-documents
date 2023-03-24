@@ -1,16 +1,30 @@
 # [小丑路人·社区·Laravel版](https://bbs.cnpscy.com)
 
+- [语言版本](#section-语言版本)
+- [软件架构](#section-软件架构)
+- [安装教程](#section-安装教程)
+- [部署优化](#section-部署优化)
+- [使用说明](#section-使用说明)
+
+<a name="section-语言版本"></a>
+### 语言版本
 > {success} [gitee仓库·Laravel版](https://gitee.com/clown-passerby-community/community)
+
+<p align="center">
+    <img src="https://gitee.com/clown-passerby-community/community/badge/star.svg?theme=dark" />
+    <img src="https://gitee.com/clown-passerby-community/community/badge/fork.svg?theme=dark" />
+    <img src="https://svg.hamm.cn/badge.svg?key=License&value=Apache-2.0&color=da4a00" />
+</p>
 
 ---
 
 > {info} [gitee仓库·Hyperf版](https://gitee.com/clown-passerby-community/hyperf-community)
 
-
-- [软件架构](#section-软件架构)
-- [安装教程](#section-安装教程)
-- [部署优化](#section-部署优化)
-- [使用说明](#section-使用说明)
+<p align="center">
+    <img src="https://gitee.com/clown-passerby-community/hyperf-community/badge/star.svg?theme=dark" />
+    <img src="https://gitee.com/clown-passerby-community/hyperf-community/badge/fork.svg?theme=dark" />
+    <img src="https://svg.hamm.cn/badge.svg?key=License&value=Apache-2.0&color=da4a00" />
+</p>
 
 <a name="section-软件架构"></a>
 ### 软件架构
