@@ -1,4 +1,5 @@
-- ## [demo](/{{route}}/{{version}}/demo)
+[//]: # (- ## [demo]&#40;/{{route}}/{{version}}/demo&#41;)
+
 - ## 小丑路人·社区
     - [Laravel版](/{{route}}/{{version}}/home)
     - [Hyperf版](/{{route}}/{{version}}/bbs-hyperf)
