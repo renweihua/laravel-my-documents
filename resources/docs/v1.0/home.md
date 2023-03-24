@@ -1,41 +1,53 @@
-# [小丑路人·社区](https://bbs.cnpscy.com)
+# [小丑路人·社区·Laravel版](https://bbs.cnpscy.com)
 
-> {info} 待编写
+> {success} [gitee仓库·Laravel版](https://gitee.com/clown-passerby-community/community)
 
-- [gitee仓库·Laravel版](https://gitee.com/clown-passerby-community/community)
+---
 
+> {info} [gitee仓库·Hyperf版](https://gitee.com/clown-passerby-community/hyperf-community)
+
+
+- [软件架构](#section-软件架构)
+- [安装教程](#section-安装教程)
+- [部署优化](#section-部署优化)
+- [使用说明](#section-使用说明)
+
+<a name="section-软件架构"></a>
 ### 软件架构
 * 编程语言：`PHP7.4+`
 * 后端框架： `Laravel8`
 * 前端Vue框架：`vue-element-admin`
-* Nodejs  v14.*
+* Nodejs：`v14.*`
 
+<a name="section-安装教程"></a>
 ### 安装教程
 * 命令行：`composer install`
-    - composer install –ignore-platform-reqs 就相当于设置了忽略版本匹配
+    * composer install –ignore-platform-reqs 就相当于设置了忽略版本匹配
 * 命令行：`cp .env.example .env`
 * 命令行，生成 APP_KEY：`php artisan key:generate`
 * 命令行，JWT的key：`php artisan jwt:secret`
 * 同步导入数据表：`php artisan sync:database:tables`
 * 定时任务：
-    - 自动按月分表：`php artisan command:autotablebuild`
-    - 或者使用任务调度：`php artisan schedule:run`
-        - 后置进程：
+    * 自动按月分表：`php artisan command:autotablebuild`
+    * 或者使用任务调度：`php artisan schedule:run`
+        * 后置进程：
           `* * * * * www php artisan schedule:run >> /dev/null 2>&1`
-- 队列[后置进程]：`php artisan queue:work database --daemon --queue=default`
-    - 默认 `php artisan queue:work database --queue=default`
-- 一键生成模型、控制器、验证器与服务层
-    - php artisan make:modular 名称 模块
+* 队列后置进程：`php artisan queue:work database --daemon --queue=default`
+    * 默认 `php artisan queue:work database --queue=default`
+* 一键生成模型、控制器、验证器与服务层
+    * php artisan make:modular 名称 模块
 
+<a name="section-部署优化"></a>
 ### 部署优化
 * 配置信息缓存 artisan config:cache
 * 路由缓存 artisan route:cache
 * 类映射加载优化 artisan optimize
 * 自动加载优化 composer dumpautoload
 
-#### 使用说明
+<a name="section-使用说明"></a>
+### 使用说明
 
-1.  按月、按年分表的模型，皆不可使用 `with`，可使用 `load` 代替,`static::query` 会重新 实例化当前模型，之前设置的分表名称将被替换。
+* 按月、按年分表的模型，皆不可使用 `with`，可使用 `load` 代替,`static::query` 会重新 实例化当前模型，之前设置的分表名称将被替换。
 
     具体原因看代码：
 ```php
@@ -53,17 +65,17 @@
     }
 ```
 
-2.为模型生成注释
+* 为模型生成注释
 ```
     php artisan ide-helper:models
 ```
 
-3.生成 PHPstorm Meta file
+* 生成 PHPstorm Meta file
 ```
     php artisan ide-helper:meta
 ```
 
-4.为 Facades 生产注释
+* 为 Facades 生产注释
 ```
     php artisan ide-helper:generate
 ```
