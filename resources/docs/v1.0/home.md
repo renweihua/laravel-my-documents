@@ -1,6 +1,9 @@
 # [小丑路人·社区·Laravel版](https://bbs.cnpscy.com)
 
 - [语言版本](#section-语言版本)
+- [作者`小丑路人`](#section-作者`小丑路人`)
+- [小丑路人社区](#section-小丑路人社区)
+- [在线预览](#section-在线预览)
 - [软件架构](#section-软件架构)
 - [安装教程](#section-安装教程)
 - [部署优化](#section-部署优化)
@@ -25,6 +28,19 @@
     <img src="https://gitee.com/clown-passerby-community/hyperf-community/badge/fork.svg?theme=dark" />
     <img src="https://svg.hamm.cn/badge.svg?key=License&value=Apache-2.0&color=da4a00" />
 </p>
+
+<a name="section-作者`小丑路人`"></a>
+### 作者`小丑路人`
+[小丑路人](https://www.cnpscy.com)
+
+<a name="section-小丑路人社区"></a>
+### 小丑路人社区
+[小丑路人社区](https://bbs.cnpscy.com)
+
+<a name="section-在线预览"></a>
+### [在线预览](https://bbs.cnpscy.com)
+- 小丑路人社区 `https://bbs.cnpscy.com`
+  ![首页](/bbs/pc.png)
 
 <a name="section-软件架构"></a>
 ### 软件架构

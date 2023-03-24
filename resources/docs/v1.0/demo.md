@@ -3,6 +3,7 @@
 - [First Section](#section-1)
 - [2](#section-2)
 - [3](#section-3)
+- [Example](#example-link)
 
 <a name="section-1"></a>
 ## First Section
@@ -11,7 +12,6 @@
 
 Write something cool.. 🦊
 
-- [Example](#example-link)
 
 Inline code is `cool`
 

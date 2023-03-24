@@ -5,6 +5,6 @@
 - ## laravel-vue-admin管理系统
     - [部署文档](/{{route}}/{{version}}/laravel-vue-admin)
 - ## 在线笔记与即时通讯
-    - [小丑路人·在线笔记与即时通讯](/{{route}}/{{version}}/notes-and-websocket)
+    - [部署文档](/{{route}}/{{version}}/notes-and-websocket)
 - ## 小丑路人·短链接
-    - [小丑路人·短链接](/{{route}}/{{version}}/short-url)
+    - [部署文档](/{{route}}/{{version}}/short-url)
