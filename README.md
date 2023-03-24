@@ -16,8 +16,6 @@
 3.  生成 APP_KEY：`php artisan key:generate`
 4.  php artisan larecipe:install
 
-#### 使用说明
+#### [小丑路人·文档](https://docs.cnpscy.com)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![首页](./public/docs/home.png)
