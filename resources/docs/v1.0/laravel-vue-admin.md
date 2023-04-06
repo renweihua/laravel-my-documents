@@ -1,6 +1,6 @@
 # [小丑路人·laravel-vue-admin管理系统](http://laravel-vue-admin.cnpscy.com)
 
-- [语言版本](#section-语言版本)
+- [源码仓库](#section-源码仓库)
 - [作者`小丑路人`](#section-作者`小丑路人`)
 - [小丑路人社区](#section-小丑路人社区)
 - [在线demo预览](#section-在线demo预览)
@@ -9,9 +9,10 @@
 - [安装教程](#section-安装教程)
 - [部署优化](#section-部署优化)
 - [使用说明](#section-使用说明)
+- [捐助](#section-捐助)
 
-<a name="section-语言版本"></a>
-### 语言版本
+<a name="section-源码仓库"></a>
+### 源码仓库
 
 > {success} [gitee仓库·laravel-vue-admin管理系统](https://gitee.com/clown-passerby-community/laravel-vue-admin)
 
@@ -33,11 +34,11 @@
 
 <a name="section-作者`小丑路人`"></a>
 ### 作者`小丑路人`
-[小丑路人](https://www.cnpscy.com)
+> https://www.cnpscy.com
 
 <a name="section-小丑路人社区"></a>
 ### 小丑路人社区
-[小丑路人社区](https://bbs.cnpscy.com)
+> https://bbs.cnpscy.com
 
 <a name="section-在线demo预览"></a>
 ### [在线demo预览](http://laravel-vue-admin.cnpscy.com/admin)
@@ -140,7 +141,8 @@
     }
 ```
 
+<a name="section-捐助"></a>
 ### 捐助
 
-![支付宝收款码](https://images.gitee.com/uploads/images/2020/1112/091130_811b3a6c_790553.jpeg "alipay-400.jpg")
-![微信收款码](https://images.gitee.com/uploads/images/2020/1112/091305_2592a352_790553.jpeg "wechat-400-width(1).jpg")
+![支付宝收款码](https://bbs-1252866470.cos.ap-shanghai.myqcloud.com/alipay-collection.png "alipay-400.jpg")
+![微信收款码](https://bbs-1252866470.cos.ap-shanghai.myqcloud.com/wechat-collection.png "wechat-400-width(1).jpg")

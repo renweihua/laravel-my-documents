@@ -1,17 +1,17 @@
-# [小丑路人·短域名](http://laravel-vue-admin.cnpscy.com)
+# [小丑路人·短域名](https://short.cnpscy.com)
 
-- [语言版本](#section-语言版本)
+- [源码仓库](#section-源码仓库)
 - [作者`小丑路人`](#section-作者`小丑路人`)
 - [小丑路人社区](#section-小丑路人社区)
-- [在线预览](#section-在线demo预览)
+- [在线预览](#section-在线预览)
 - [软件架构](#section-软件架构)
 - [安装教程](#section-安装教程)
 - [部署优化](#section-部署优化)
 - [使用说明](#section-使用说明)
 - [捐助](#section-捐助)
 
-<a name="section-语言版本"></a>
-### 语言版本
+<a name="section-源码仓库"></a>
+### 源码仓库
 
 > {success} [gitee仓库·laravel-短域名](https://gitee.com/clown-passerby-community/laravel-vue-admin)
 
